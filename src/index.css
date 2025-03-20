@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  margin: 1rem auto;
+  width: 80%;
+  height: 100vh;
+}
+
+.heading {
+  margin: 1rem 0;
+}
+
+.container {
+  border: 1px solid #333;
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 2rem 0;
+}
+
+.progressbar {
+  background-color: blueviolet;
+  padding: 5px 10px;
+  text-align: right;
+  transition: 0.5s ease-in;
+}
